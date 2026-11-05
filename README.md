@@ -7,7 +7,7 @@
     </title>
 </head>
 <body>
-<div class="tit">
+<div class="titl">
     <h1>Desenvolvedor Full-Stack</h1>
     <h2>Atualmente</h2>
 </div>
@@ -39,6 +39,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br></p>
     <style>
+        .titl {
+            text-align: center;
+        }
       body {
     background-color: aquamarine;
 }
