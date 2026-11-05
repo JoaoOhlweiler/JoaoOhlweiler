@@ -1,2 +1,2 @@
 <h1 align="center">João Gabriel Ohlweiler</h1>
-![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor%20Front--End-0969DA?style=for-the-badge)
+<p align="center"><img src="https://img.shields.io/badge/Desenvolvedor_Front_End-0A1F44?style=for-the-badge" alt="Desenvolvedor Front End" /></p>
