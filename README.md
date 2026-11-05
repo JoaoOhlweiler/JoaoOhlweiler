@@ -1,6 +1,6 @@
-# Desenvolvedor Full-Stack
+# <h1>Desenvolvedor Full-Stack</h1>
 
-## <h1 class A>Atualmente</h1>
+## <h2 class A>Atualmente</h1>
 - Estudando uma base forte em Java, aplicação Web e SQL.
 - Buscando chances de mostrar meu potencial em uma empresa ou startup.
 
@@ -31,3 +31,6 @@
 ## Meios de Contato
 - [LinkedIn](link)
 - joaogabrielohlweiler15@gmail.com
+<style>
+  .A 
+</style>
