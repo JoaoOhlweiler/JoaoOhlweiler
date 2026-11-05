@@ -1,8 +1,7 @@
 # Desenvolvedor Full-Stack
 
 ## Atualmente
-- Estudando uma base forte em Java, SQL e versinamento.
-- Analisando formas de facilitar a criação e aplicar bons designs Web.
+- Estudando uma base forte em Java, aplicação Web e SQL.
 - Buscando chances de mostrar meu potencial em uma empresa ou startup.
 
 ## 🛠️ Tecnologias
