@@ -1,6 +1,6 @@
 # Desenvolvedor Full-Stack
 
-## Atualmente
+## <h1 class A>Atualmente</h1>
 - Estudando uma base forte em Java, aplicação Web e SQL.
 - Buscando chances de mostrar meu potencial em uma empresa ou startup.
 
