@@ -2,3 +2,4 @@
 <p align="center" board= 1px>
   <img src="https://img.shields.io/badge/Desenvolvedor_Front_End-1E3A8A?style=for-the-badge." alt="Desenvolvedor Front End" />
 </p>
+$\colorbox{#0A1F44}{\color{white}\small\text{ Desenvolvedor Front End }}$
