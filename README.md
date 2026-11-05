@@ -1,4 +1,4 @@
-# <h1>Desenvolvedor Full-Stack</h1>
+# Desenvolvedor Full-Stack
 
 ## <h2 class A>Atualmente</h1>
 - Estudando uma base forte em Java, aplicação Web e SQL.
