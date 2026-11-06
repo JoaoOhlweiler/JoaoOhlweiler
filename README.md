@@ -16,25 +16,6 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-## Estatísticas
+## Meios de Contato
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=JoaoOhlweiler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOhlweiler&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
-
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Joao+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="TypingSVG">
-</a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaog._.o) [![Gmail](https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joaogabrielohlweiler15@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/joão-gabriel-ohlweiler-1220ab3ba)
