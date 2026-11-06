@@ -1,7 +1,7 @@
 <h1 align="center">João Ohlweiler</h1>
 <p align="center"><img src="https://img.shields.io/badge/Desenvolvedor_Front_End-0A1F44?style=for-the-badge" alt="Desenvolvedor Front End" /></p>
 
-### Sobre Mim
+## Sobre Mim
 ##### Me chamo João Gabriel Ohlweiler, tenho 18 anos e sou natural do Rio Grande do Sul, tenho um vasto passado ligado ao estudo de programação focado em desenvolvimento Web, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas pela UNINTER, junto de cursos complementares pela UDEMY, e atualmente estou buscando minha primeira oportunidade de demonstrar na prática em uma empresa ou startup minhas habilidades e competências.
 
 ### Habilidades Recorrentes
