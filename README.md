@@ -10,3 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="48" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
+
+## Estatísticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoOhlweiler)](https://github.com/anuraghazra/github-readme-stats)
